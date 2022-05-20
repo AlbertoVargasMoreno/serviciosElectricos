@@ -1,0 +1,157 @@
+
+/* bootstrap.min.css | https://albertovargasmoreno.github.io/myPageOnGitHub/css/bootstrap.min.css */
+
+body {
+  /* background-color: #fff; */
+  background-color: #15133C;
+}
+
+/* building.css | https://albertovargasmoreno.github.io/myPageOnGitHub/css/building.css */
+
+#services.section.db {
+  /* background-color: #fff; */
+  background-color: #15133C;
+}
+
+h2::after {
+  /* background: #fbcf00; */
+  background: #F1EEE9;
+}
+
+body.building_version .section-title h3 {
+  /* color: #1f1f1f; */
+  color: ;
+}
+
+.serv::after {
+  /* background: rgba(0, 0, 0, 0.2); */
+  /* content: ""; */
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  /* transition: ease all 0.5s; */
+  /* height: 100%; */
+}
+
+@media (max-width: 768px) {
+  h5 {
+    /* color: #999; */
+    color: #F1EEE9;
+  }
+  .serv-blog-cont p {
+    /* color: #ddd; */
+    /* color: #EC994B; */
+    color: #15133C;
+  }
+  .top-header {
+    /* display: none; */
+  }
+}
+
+#services .serv-blog-cont h3 {
+  /* color: #fff; */
+  /* color: #EC994B; */
+  color: #15133C;
+}
+
+.info-shape {
+  /* background: #e8a900; */
+  background: #EC994B;
+}
+
+.contant-info ul li div.info-content .uppercase {
+  /* color: #333; */
+  color: #73777B;
+}
+
+.contant-info ul li div.info-content p {
+  /* color: #666; */
+  color: #F1EEE9;
+}
+
+div#services .service-inform-text h3 {
+  /* color: #333; */
+  color: #EC994B;
+}
+
+.top-header {
+  /* background: #111; */
+  background: #43474B;
+  position: fixed;
+  z-index: 100;
+}
+
+.gem-contacts-item.gem-contacts-phone a {
+  /* color: #fff; */
+  color: #F1EEE9;
+}
+
+.serv-blog-cont p {
+  /* color: #ddd; */
+  color: #15133C;
+}
+
+/* style.css | https://albertovargasmoreno.github.io/myPageOnGitHub/style.css */
+
+h1, h2, h3, h4, h5, h6 {
+  /* color: #1f1f1f; */
+  color: #EC994B;
+}
+
+#contact {
+  /* background: url(images/bg.png) no-repeat center center #fff; */
+  background: url(images/bg.png) no-repeat center center #15133C;
+}
+
+.section-title p {
+  /* color: #999; */
+  color: #F1EEE9;
+}
+
+body {
+  /* color: #999; */
+  color: #F1EEE9;
+}
+
+/* Elemento | https://albertovargasmoreno.github.io/myPageOnGitHub/#home */
+
+div.serv:nth-child(1) {
+  /* background-color: rgb(34, 34, 34); */
+  background-color: #fff;
+}
+
+/* Elemento | https://albertovargasmoreno.github.io/myPageOnGitHub/#home */
+
+div.col-lg-4:nth-child(3) {
+  /* background: rgb(34, 34, 34) none repeat scroll 0% 0%; */
+  background: #fff none repeat scroll 0% 0%;
+}
+
+/* Elemento | https://albertovargasmoreno.github.io/myPageOnGitHub/#home */
+
+div.col-lg-4:nth-child(2) {
+  /* background: rgb(24, 24, 24) none repeat scroll 0% 0%; */
+  background: #EC994B none repeat scroll 0% 0%;
+}
+
+/* versions.css | https://albertovargasmoreno.github.io/myPageOnGitHub/css/versions.css */
+
+body.building_version .lead strong, body.building_version .icon-wrapper:hover a, body.building_version a:hover, body.building_version a:focus {
+  /* color: #e8a900; */
+  color: #F1EEE9;
+}
+
+/* En línea #6 | https://albertovargasmoreno.github.io/myPageOnGitHub/#home */
+
+#services {
+  /* padding-top: 2rem; */
+  padding-top: 8rem;
+}
+
+/* En línea #7 | https://albertovargasmoreno.github.io/myPageOnGitHub/#home */
+
+ul {
+  text-align: left;
+}
+
+
