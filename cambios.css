@@ -155,3 +155,24 @@ ul {
 }
 
 
+/* Elemento | file:///home/earlybird/Documentos/code/websiteP/serviciosElectricos/index.html */
+
+#services > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1) {
+  text-align: center;
+}
+
+/* En línea #16 | file:///home/earlybird/Documentos/code/websiteP/serviciosElectricos/index.html */
+
+.d-none {
+  /* display: none; */
+	display: block;
+}
+
+/* building.css | file:///home/earlybird/Documentos/code/websiteP/serviciosElectricos/Constructed%20-%20Responsive%20HTML5%20Landing%20Page%20Template%20Archivos/building.css */
+
+@media (max-width: 768px) {
+  .socials {
+    /* margin-top: 30px; */
+  }
+}
+
