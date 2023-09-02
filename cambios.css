@@ -69,6 +69,10 @@ body.building_version .section-title h3 {
   color: #F1EEE9;
 }
 
+p {
+    font-family: sans-serif;
+}
+
 div#services .service-inform-text h3 {
   /* color: #333; */
   color: #EC994B;
@@ -76,7 +80,7 @@ div#services .service-inform-text h3 {
 
 .top-header {
   /* background: #111; */
-  background: #43474B;
+  background: #2b742c;
   position: fixed;
   z-index: 100;
 }
@@ -98,9 +102,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #EC994B;
 }
 
+.phone-font {
+  font-family: sans-serif;
+}
+
 #contact {
   /* background: url(images/bg.png) no-repeat center center #fff; */
   background: url(images/bg.png) no-repeat center center #15133C;
+  /* height: 1000px; */
 }
 
 .section-title p {
